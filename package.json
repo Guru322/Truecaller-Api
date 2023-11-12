@@ -1,0 +1,23 @@
+{
+  "name": "truecaller api",
+  "version": "1.0.0",
+  "description": "simple Api to get truecaller Data",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Guru322/Truecaller-Api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Guru322/Truecaller-Api/issues"
+  },
+  "homepage": "https://github.com/Guru322/Truecaller-Api#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "truesearch": "^1.0.2"
+  }
+}
